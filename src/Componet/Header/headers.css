@@ -1,0 +1,130 @@
+header{
+    background-color: white;
+    width: 1361px;
+    height: 120px;
+    color: #13243F;
+}
+
+nav {
+    display: flex;
+    position: relative;
+    justify-content: center;
+    height: 100%;
+}
+
+
+.sticky {
+    position: fixed;
+    z-index: 5;
+    background-color:#13243F;
+    color: white ;
+}
+
+.sticky ul {
+    position: relative;
+    top: 20px;
+}
+
+.sticky  li a{
+    color: white;
+}
+
+header ul {
+    display: flex;
+    text-decoration: none !important;
+    list-style-type: none !important;
+    position: relative;
+    justify-content: center;
+    grid-gap: 111px;
+    width: 70%;
+    align-items: center;
+
+}
+
+
+header .linknav {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 70%;
+    position: relative;
+    top: 18px;
+}
+
+header  li a{
+    color: #13243F;
+    font-size: 18px;
+    font-family: "Marcellus SC", sans-serif;
+    display: flex;
+
+
+}
+
+
+header  li a:hover{
+    color: #04abcc;
+    text-decoration-line: none;
+    list-style-type: none !important;
+
+
+}
+
+.socialemedialogo {
+    display: flex;
+    justify-content: end;
+}
+
+.socialemedialogo ul{
+    display: flex;
+    grid-gap:15px;
+    justify-content:center ;
+    align-items: center;
+    position: relative;
+    top: 11px;
+    
+    
+}
+
+
+.socialemedialogo li:hover{
+    display: flex;
+    grid-gap:15px;
+    transform: scale(1.1);
+    box-shadow: 0px 0px 0px 0px;   
+
+}
+
+.flexcenter {
+    display: flex;
+    align-items: center;
+    justify-content: center;    
+    
+}
+
+.sticky .socialemedialogo ul{
+    display: flex;
+    grid-gap:15px;
+    justify-content:center ;
+    position: relative;
+    top: 31px;
+}
+
+
+
+
+header img {
+    height: 103px;
+    width: 126px;
+    position: relative;
+    justify-content: start;
+}
+
+.sticky  img {
+    display: flex;
+    height: 62px;
+    width: 95px;
+    position: relative;
+    justify-content: start;
+    top: 56px;
+}
+

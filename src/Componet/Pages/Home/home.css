@@ -1,0 +1,113 @@
+.serviceshoph2 h2 {
+    color: #13243F;
+    font-size: 36px;
+    font-family: "Marcellus", serif;
+    font-weight: bold;
+    padding-top: 33px;
+    padding-bottom: 50px;
+    text-align: center;
+}
+
+.card {
+    height: 253px;
+    width: 311px;
+}
+
+.card:hover {
+    transform: scale(1.1);
+    box-shadow: 0px 0px 15px 0px;
+}
+
+.card p {
+    color: #13243F;
+    font-size: 21px;
+    font-family: "Marcellus", serif;
+    font-weight: bold;
+    text-align: center;
+    position: relative;
+    top: -21px;
+
+}
+
+.cardshop {
+    display: flex;
+    justify-content: center;
+    grid-gap:30px;
+    padding-bottom: 100px;
+}
+
+.abouthome {
+    height: 475px;
+    width: 1349px;
+    background-color: #13243F;
+}
+
+.abouthome img {
+    height: 475px;
+    width: 593px;
+    position: relative;
+    right: -53px;
+}
+
+
+
+.abouthome h4 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+    position: relative;
+    top: -383px;
+    right: -154px;
+    color: #04abcc;
+    font-weight: bold;
+    font-size:28px;
+
+}
+
+.abouthome p {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+    position: relative;
+    top: -318px;
+    right: -318px;
+    color: white;
+    font-size: 20px;
+}
+
+
+
+.contacthome .pcontact {
+    position: relative;
+    left: 820px;
+}
+
+.contacthome h4 {
+    font-weight: bold;
+    font-size:28px;
+    font-family: "Marcellus", serif;
+    color: black;
+
+}
+
+.contacthome p {
+    font-size: 20px;
+    color: black;
+}
+
+.contacthome{
+    height: 475px;
+    width: 1349px;
+    background-color: #EDEDED;
+}
+
+.bra .btn{
+    position: relative;
+    top: -230px;
+    right: -690px;
+    width: -43px;
+    height: 51px;
+    background-color: white;
+}

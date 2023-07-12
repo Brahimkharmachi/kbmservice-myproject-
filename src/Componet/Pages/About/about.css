@@ -1,0 +1,119 @@
+.chose h2{
+    color: #13243F;
+    font-size: 36px;
+    font-family: "Marcellus", serif;
+    font-weight: bold;
+    padding-top: 33px;
+    padding-bottom: 50px;
+    text-align: center;
+}
+
+.chose p{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+    position: relative;
+    top: -30px;
+    color: #13243F;
+    font-size: 18px;
+    text-align: center;
+}
+
+
+.abouttwo h4{
+    color: #13243F;
+    font-family: "Marcellus", serif;
+    font-weight: bold;
+    position: relative;
+    top: 50px;
+}
+
+.abouttwo p{
+    color: #13243F;
+    position: relative;
+    top: 95px;
+    right: 51px;
+}
+
+.shield {
+    display: flex;
+    position: relative;
+    right: -39px;
+}
+
+
+.shield img {
+    height: 170px;
+}
+
+.collaboration {
+    display: flex;
+    position: relative;
+    right: -39px;
+}
+
+.collaboration p{
+    position: relative;
+    top: 95px;
+    right: 93px;
+}
+
+.collaboration img{
+    height: 170px;
+}
+
+.excellence {
+    display: flex;
+    position: relative;
+    right: -39px;
+}
+
+.excellence p{
+    position: relative;
+    top: 95px;
+    right: 113px;
+}
+
+.excellence img {
+    height: 170px;
+}
+
+.aboutme {
+    height: 350px;
+    width: 1349px;
+    background-color: #13243F;
+    position: relative;
+    top: 100px;
+
+}
+
+.aboutme img {
+    height: 350px;
+    position: relative;
+    right: -78px;
+}
+
+.aboutcontacthome .aboutpcontact {
+    position: relative;
+    left: 820px;
+}
+
+.aboutcontacthome h4 {
+    font-weight: bold;
+    font-size:28px;
+    font-family: "Marcellus", serif;
+    color: black;
+
+}
+
+.aboutcontacthome p {
+    font-size: 20px;
+    color: black;
+}
+
+.aboutcontacthome{
+    height: 475px;
+    width: 1349px;
+    background-color: #EDEDED;
+}

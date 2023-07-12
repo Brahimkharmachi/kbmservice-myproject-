@@ -1,0 +1,131 @@
+.softdev {
+    height: 475px;
+    width: 1349px;
+    background-color: #13243F;
+}
+
+.softdev img {
+    height: 475px;
+    width: 593px;
+    position: relative;
+    right: -53px;
+}
+
+
+
+.softdev h4 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+    position: relative;
+    top: -383px;
+    right: -154px;
+    color: #04abcc;
+    font-weight: bold;
+    font-size:28px;
+
+}
+
+.softdev p {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+    position: relative;
+    top: -318px;
+    right: -327px;
+    color: white;
+    font-size: 20px;
+}
+
+.bra .btn{
+    position: relative;
+    top: -297px;
+    right: -677px;
+    width: -43px;
+    height: 51px;
+    background-color: white;
+}
+
+.softvideo img{
+    height: 475px;
+    width: 593px;
+    position: relative;
+    right: -696px;
+}
+
+.bravideo h4 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+    position: relative;
+    top: -383px;
+    right: 535px;
+    color: #13243F;
+    font-weight: bold;
+    font-size:28px;
+    font-family: "Marcellus", serif;
+    font-weight: bold;
+}
+
+.bravideo p {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+    position: relative;
+    top: -318px;
+    right: 310px;
+    color: #13243F;
+    font-size: 20px;
+
+}
+
+.softvideo {
+    height: 475px;
+    width: 1349px;
+    background-color: #EDEDED;
+}
+
+.softvideo .btn {
+    position: relative;
+    top: -297px;
+    right: -59px;
+    width: -43px;
+    height: 51px;
+    background-color: #13243F;
+    color: white;
+}
+
+.contactservice {
+    height: 475px;
+    width: 1349px;
+    background-color: #13243F;
+}
+
+.contactservice .pcontact {
+    position: relative;
+    left: 820px;
+}
+
+.contactservice h4 {
+    font-weight: bold;
+    font-size:28px;
+    font-family: "Marcellus", serif;
+    color: white;
+
+}
+
+.contactservice p {
+    font-size: 20px;
+    color: white;
+}
+
+.contactservice{
+    height: 475px;
+    width: 1349px;
+    background-color: #13243F;
+}
+
